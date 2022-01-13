@@ -1,0 +1,15 @@
+!SESSION 2022-01-13 11:42:57.120 -----------------------------------------------
+eclipse.buildId=Version 1.7.0
+java.version=11.0.10
+java.vendor=AdoptOpenJDK
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ru_RU
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -data D:\UCU\POC2\rtocsic\Bubuntyk-rtocs
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2022-01-13 11:43:06.278
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2022-01-13 11:43:06.382
+!MESSAGE Log4j initialized with config file D:\UCU\POC2\rtocsic\Bubuntyk-rtocs\.metadata\.log4j.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2022-01-13 11:43:11.890
+!MESSAGE Started RMI Server, listening on port 41337
